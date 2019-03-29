@@ -1,7 +1,7 @@
 {
-  "name": "webpack-react-preheated",
-  "version": "0.0.2",
-  "description": "",
+  "name": "the-next-lawyer",
+  "version": "0.1.2",
+  "description": "Front End WebApp Integration for Resources of the The Next Lawyer",
   "main": "index.js",
   "scripts": {
     "start-server": "http-server -c-1 -p 3000",
@@ -22,7 +22,7 @@
     "React",
     "Sword"
   ],
-  "author": "Aadiyaara <aadiyaara@gmail.com>",
+  "author": "KulStuff <contact.kulstuff@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Aadiyaara/Webpack-React-PreHeated/issues"
@@ -46,9 +46,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "css-loader": "^2.1.1",
-    "file-loader": "^3.0.1",
     "html-webpack-plugin": "^3.2.0",
-    "image-webpack-loader": "^4.6.0",
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
